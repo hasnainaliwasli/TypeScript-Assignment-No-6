@@ -1,0 +1,51 @@
+1.Write a ts program to print all natural numbers from 1 to n ...(using While loops).
+2.write a ts Program to print all natural numbers in reverse from n to 1...(using while loop).
+3.write a program from 'A' to 'Z'.... (using while loop).
+4.All Even numbers bw 1 to 100...|(using while loop).
+5.All Odd numbers bw 1 to 100.
+6.Write a ts program to print the sum of all natural numbers from 1 to n ..
+7.Write a ts program to print the sum of all Even numbers from 1 to n ..
+8.Write a ts program to print the sum of all Odd numbers from 1 to n ..
+9.Write a Program to print multiplication table of any number.
+10.Write a program to count the digits in a number.
+11.Write a ts Program to find the first and last digit of a number.
+12.Write a ts Program to find the Sum of first and last digit of a number.
+13.Write a ts Program to Swap the first and last digit of a number.
+14.Write a ts program to calculate sum of digits of number.
+15.Write a ts program to calculate Product of digits of number.
+16. Write a ts program to enter a number and print its reverse.
+17. Write a ts program to check whether a number is palindrome or not.
+18. Write a ts program to find frequency of each digit in a given integer.
+19. Write a ts program to enter a number and print it in words.
+20. Write a ts program to print all ASCII character with their values.
+21. Write a ts program to find power of a number using for loop.
+22. Write a ts program to find all factors of a number.
+23. Write a ts program to calculate factorial of a number.
+24. Write a ts program to find HCF (GCD) of two numbers.
+25. Write a ts program to find LCM of two numbers.
+26. Write a ts program to check whether a number is Prime number or not.
+27. Write a ts program to print all Prime numbers between 1 to n.
+28. Write a ts program to find sum of all prime numbers between 1 to n.
+29. Write a ts program to find all prime factors of a number.
+30. Write a ts program to check whether a number is Armstrong number or not.
+31. Write a ts program to print all Armstrong numbers between 1 to n.
+32. Write a ts program to check whether a number is Perfect number or not.
+33. Write a ts program to print all Perfect numbers between 1 to n.
+34. Write a ts program to check whether a number is Strong number or not.
+35. Write a ts program to print all Strong numbers between 1 to n.
+36. Write a ts program to print Fibonacci series up to n terms.
+37. Write a ts program to find one's complement of a binary number.
+38. Write a ts program to find two's complement of a binary number.
+39. Write a ts program to convert Binary to Octal number system.
+40. Write a ts program to convert Binary to Decimal number system.
+41. Write a ts program to convert Binary to Hexadecimal number system.
+42. Write a ts program to convert Octal to Binary number system.
+43. Write a ts program to convert Octal to Decimal number system.
+44. Write a ts program to convert Octal to Hexadecimal number system.
+45. Write a ts program to convert Decimal to Binary number system.
+46. Write a ts program to convert Decimal to Octal number system.
+47. Write a ts program to convert Decimal to Hexadecimal number system.
+48. Write a ts program to convert Hexadecimal to Binary number system.
+49. Write a ts program to convert Hexadecimal to Octal number system.
+50. Write a ts program to convert Hexadecimal to Decimal number system.
+51. Write a ts program to print Pascal triangle upto n rows.
